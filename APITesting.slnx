@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="APITesting/APITesting.csproj" />
+  <Project Path="XUnit_APITest/XUnit_APITest.csproj" />
+</Solution>
