@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XUnit_APITest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6eb3fdc5032dd59f1894ff58e13b0cf02f36b76")]
 [assembly: System.Reflection.AssemblyProductAttribute("XUnit_APITest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XUnit_APITest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
