@@ -63,11 +63,12 @@ pipeline
         }
 
     }
-    post 
-    {
-        success 
-        {
-            echo "Build, TEst and Publish stages completed successfully."
-        }
-    }
-}
+}   
+//     post 
+//     {
+//         success 
+//         {
+//             echo "Build, TEst and Publish stages completed successfully."
+//         }
+//     }
+// }
