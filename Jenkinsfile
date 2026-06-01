@@ -58,7 +58,7 @@ pipeline
             steps 
             {
                 bat "del /q /s C:\\inetpub\\wwwroot\\apitestingpipeline\\*"
-                bat "xcopy /E /Y /I publish\\* C:\inetpub\wwwroot\apitestingpipeline\\"
+                bat "xcopy /E /Y /I publish\\* C:\\inetpub\\wwwroot\\apitestingpipeline\\"
             }
         }
 
